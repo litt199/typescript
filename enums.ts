@@ -1,4 +1,4 @@
-//数字枚举
+//数字枚举,数字枚举
 enum Direction {//枚举成员从0开始
     Up = "UP",
     Down = "DOWN",
